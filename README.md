@@ -82,7 +82,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - Voice-first navigation
 - Keyboard navigation support
 - High contrast mode
-- Screen reader optimized
+- Screen reader optimised
 - ARIA labels and landmarks
 
 ## 🌟 Innovation Highlights
@@ -108,14 +108,21 @@ This project was developed for Smart India Hackathon 2025. Contributions are wel
 
 This project is developed for educational purposes as part of SIH 2025.
 
+## Glipmses
+<img width="1877" height="850" alt="image" src="https://github.com/user-attachments/assets/fbf43993-2162-43d1-8e6d-2149014f69bc" />
+
+<img width="1674" height="854" alt="image" src="https://github.com/user-attachments/assets/4433efae-f264-4604-88de-d6f0ff5f8b56" />
+
+<img width="1568" height="688" alt="image" src="https://github.com/user-attachments/assets/39375938-6e0f-42c2-823c-073b6281926c" />
+
+
+
+
 ## 👥 Team
 
-Developed by Team [Your Team Name] for Smart India Hackathon 2025
+Developed by Team InternSetu for Smart India Hackathon 2025
+Members are:
+Abhinav, Mehr, Bilal, Irfan , Adil
 
-## 📞 Support
-
-For issues and queries, please open an issue on GitHub.
-
----
 
 **Built with ❤️ for Digital India Initiative**
