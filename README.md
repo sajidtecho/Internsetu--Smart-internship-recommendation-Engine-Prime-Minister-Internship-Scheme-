@@ -2,6 +2,7 @@
 
 **Smart Internship Recommendation System for Government of India**
 
+
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-38bdf8)](https://tailwindcss.com/)
@@ -108,14 +109,30 @@ This project was developed for Smart India Hackathon 2025. Contributions are wel
 
 This project is developed for educational purposes as part of SIH 2025.
 
-## Glipmses
+## Screenshots
+
+<img width="1910" height="878" alt="image" src="https://github.com/user-attachments/assets/d6b27400-d09d-477a-8195-721a42b345d3" />
+
+<img width="1875" height="878" alt="image" src="https://github.com/user-attachments/assets/d23441a5-ed41-4c46-be7c-03e2823c1d04" />
+
+<img width="1758" height="928" alt="image" src="https://github.com/user-attachments/assets/06260abb-3d8f-469d-867f-317f7b0eb98c" />
+
+<img width="1880" height="780" alt="image" src="https://github.com/user-attachments/assets/b8bdae8b-f203-462e-92d4-13d69c5fa02b" />
+
+
 <img width="1877" height="850" alt="image" src="https://github.com/user-attachments/assets/fbf43993-2162-43d1-8e6d-2149014f69bc" />
 
 <img width="1674" height="854" alt="image" src="https://github.com/user-attachments/assets/4433efae-f264-4604-88de-d6f0ff5f8b56" />
 
 <img width="1568" height="688" alt="image" src="https://github.com/user-attachments/assets/39375938-6e0f-42c2-823c-073b6281926c" />
 
+<img width="1916" height="580" alt="image" src="https://github.com/user-attachments/assets/9e344eeb-0317-432c-b7f2-7a318fc6d79c" />
 
+## Special Designed chatbot for help
+
+<img width="478" height="712" alt="image" src="https://github.com/user-attachments/assets/e6221da4-2c57-4c93-9d3d-d9e013bd0f7f" />
+
+<img width="470" height="294" alt="image" src="https://github.com/user-attachments/assets/3e124232-e4ff-4871-a8fb-99bbc5013fde" />
 
 
 ## 👥 Team
